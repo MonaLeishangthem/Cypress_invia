@@ -1,0 +1,26 @@
+{
+  "city": "Sizilien",
+  "text_homepage": "URLAUB ZU BESTPREISEN",
+  "start_testcase": "Home Page is successfully loaded",
+  "monthcount":3,
+  "highestprice": "Höchster Preis",
+  "descending": "price_desc",
+  "departure_start_range": "left: 16.6782%;",
+  "departure_start_range_valuenow": 16.7,
+  "departure_start_range_valuetext": 240.00,
+  "time_range_style": "left: 16.6782%; right: 12.4392%;",
+  "departure_end_range": "left: 87.5608%;",
+  "departure_end_range_valuenow": 87.6,
+  "departure_end_range_valuetext": 1260.00,
+  "return_end_range": "left: 50.0347%;",
+  "return_end_range_valuenow": 50.0,
+  "return_end_range_valuetext":720.0,
+  "spilt_parameter_colon": ":",
+  "departure_range_start":4,
+  "departure_range_end":21,
+  "return_range_start":0,
+  "return_range_end":24,
+  "hotelname": "check for hotel name"
+
+
+}
