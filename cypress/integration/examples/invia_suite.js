@@ -1,3 +1,7 @@
+//Created by Mona Leishangthem on Feb 2020
+// npx cypress open to open cypress default browser
+
+
 /// <reference types="Cypress" />
 import HomePage from '../examples/pageObjects/HomePage'
 import HotelauswahlPage from '../examples/pageObjects/HotelauswahlPage'
